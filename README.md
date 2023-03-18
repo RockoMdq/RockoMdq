@@ -1,5 +1,6 @@
 # 🐶 Ariel Maradei 
-#### Full Stack developer (trainner)
+
+### Full Stack Developer (trainner)
 
 Soy Ariel Maradei, soy Analista en Servicios Gastronomicos, Chef Internacional, en estos momento me estoy involucrando con una pasion que tenia desde pequeño la Informatica.
 Vivo en Argentina, en Mar del Plata, gracias a la Beca de Oracle Next Education, logre retomar esta pasion y descubri nuevas conjuntos de tecnologias que se aplican y eso motivo enfocarme en las IA que se estan aplicando tanto ChatGpt, Mindjourney, Stable Diffusion, entre otras.
