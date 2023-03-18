@@ -28,4 +28,4 @@ Me gustaria especializarme en Javascript, Mysql y poder encarar el mundo de QA.
 
 ![website](https://img.shields.io/website?down_color=papaya&down_message=coming%20soon&style=for-the-badge&up_color=red&up_message=coming%20soon&url=https%3A%2F%2Fshields.io)
 
-[![Twitter](https://img.shields.io/twitter/follow/Ariel_loko?label=Twitter&style=social)](https://twitter.com/) 
+[![Twitter](https://img.shields.io/twitter/follow/Ariel_loko?label=Twitter&style=social)](https://twitter.com/)  
